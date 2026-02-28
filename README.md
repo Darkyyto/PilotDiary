@@ -39,47 +39,6 @@ Built with a stunning, translucent **"Silver Glassmorphism"** aesthetic, Pilot D
 
 ---
 
-## 📥 Installation
-
-1. Navigate to the [**Releases**](https://github.com/Darkyyto/PilotDiary/releases) tab.
-2. Download the latest `Pilot Diary Setup X.X.X.exe`.
-3. Run the installer (it does not require Administrator privileges).
-4. Launch Pilot Diary alongside your simulator. That's it!
-
----
-
-## 🛠️ Development
-
-If you'd like to build the project from source or contribute to Pilot Diary:
-
-### Prerequisites
-* [Node.js](https://nodejs.org/) (v18 or higher)
-* [npm](https://www.npmjs.com/)
-
-### Running Locally
-```bash
-# Clone the repository
-git clone https://github.com/Darkyyto/PilotDiary.git
-
-# Enter the directory
-cd PilotDiary
-
-# Install dependencies
-npm install
-
-# Run the live Vite + Electron development server
-npm run dev
-```
-
-### Building for Production
-```bash
-# Compile and build the NSIS installer
-npm run build
-```
-Once the build is complete, the standalone executable will be placed in the `/release` directory.
-
----
-
 <div align="center">
   <em>Developed by Darko Studio. Fly safe.</em>
 </div>
