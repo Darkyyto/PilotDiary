@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="copertina.png" alt="Pilot Diary Cover" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1447257632908771440/1477093325789200466/copertina.png?ex=69a381db&is=69a2305b&hm=1d446e9de2151860ea71bbccb0161703e31fdb35518084cfdb6211d35275bbd0&" alt="Pilot Diary Cover" width="100%">
   
   <br>
   <strong>A premium, glassmorphism Digital Kneeboard overlay for modern flight simulators.</strong>
