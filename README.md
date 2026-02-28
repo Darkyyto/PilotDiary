@@ -4,10 +4,7 @@
   <br>
   <strong>A premium, glassmorphism Digital Kneeboard overlay for modern flight simulators.</strong>
   <br>
-  
-  [![Release](https://img.shields.io/github/v/release/Darkyyto/PilotDiary?style=for-the-badge&color=white&labelColor=black)](https://github.com/Darkyyto/PilotDiary/releases)
-  [![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&color=white&labelColor=black)]()
-  [![Built with Electron](https://img.shields.io/badge/Electron-40.6-000000?style=for-the-badge&logo=electron&logoColor=white)]()
+
 </div>
 
 <hr>
